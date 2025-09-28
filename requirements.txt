@@ -1,0 +1,9 @@
+# torch torchvision --index-url https://download.pytorch.org/whl/<your cuda toolkit version>
+
+opencv-python
+numpy
+jupyterlab
+scikit-image
+pillow
+torchmetrics
+
